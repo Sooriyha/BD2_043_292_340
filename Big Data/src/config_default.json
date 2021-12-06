@@ -1,0 +1,14 @@
+{
+    "block_size": 8,
+    "path_to_datanode": "/Data/test/DATANODE/",
+    "path_to_namenode": "/Data/test/NAMENODE/",
+    "replication_factors": 3,
+    "num_datanode": 4,
+    "datanodes_size": 4,
+    "sync_period": 180,
+    "datanode_log_path": "/Data/test/DATANODE/DATANODE_LOGS/",
+    "namenode_log_path": "/Data/test/NAMENODE/NAMENODE_LOG.txt",
+    "namenode_checkpoints": "/Data/test/NAMENODE/CHECKPOINTS/",
+    "fs_path": "/Data/test/DFS/FILE_SYSTEM/",
+    "dfs_setup_config": "/Data/test/DFS/setup.json"
+}
