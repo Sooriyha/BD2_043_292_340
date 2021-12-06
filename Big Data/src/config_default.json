@@ -6,8 +6,8 @@
     "num_datanode": 4,
     "datanodes_size": 4,
     "sync_period": 180,
-    "datanode_log_path": "/Data/test/DATANODE/DATANODE_LOGS/",
-    "namenode_log_path": "/Data/test/NAMENODE/NAMENODE_LOG.txt",
+    "datanode_log_paths": "/Data/test/DATANODE/DATANODE_LOGS/",
+    "namenode_log_paths": "/Data/test/NAMENODE/NAMENODE_LOG.txt",
     "namenode_checkpoints": "/Data/test/NAMENODE/CHECKPOINTS/",
     "fs_path": "/Data/test/DFS/FILE_SYSTEM/",
     "dfs_setup_config": "/Data/test/DFS/setup.json"
