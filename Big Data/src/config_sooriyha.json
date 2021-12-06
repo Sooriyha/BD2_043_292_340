@@ -6,8 +6,8 @@
     "num_datanode": 4,
     "datanodes_size": 4,
     "sync_period": 180,
-    "datanode_log_path": "/Data/sooriyha/DATANODE/DATANODE_LOGS/",
-    "namenode_log_path": "/Data/sooriyha/NAMENODE/NAMENODE_LOG.txt",
+    "datanode_log_paths": "/Data/sooriyha/DATANODE/DATANODE_LOGS/",
+    "namenode_log_paths": "/Data/sooriyha/NAMENODE/NAMENODE_LOG.txt",
     "namenode_checkpoints": "/Data/sooriyha/NAMENODE/CHECKPOINTS/",
     "fs_path": "/Data/sooriyha/DFS/FILE_SYSTEM/",
     "dfs_setup_config": "/Data/sooriyha/DFS/setup.json"
